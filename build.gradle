@@ -57,6 +57,11 @@ dependencies {
     testCompile "org.grails:grails-web-testing-support"
     testRuntime "org.seleniumhq.selenium:selenium-htmlunit-driver:2.47.1"
     testRuntime "net.sourceforge.htmlunit:htmlunit:2.18"
+
+    /* driver postgresql */
+    provided 'org.postgresql:postgresql:9.3-1103-jdbc41'
+    /* plugin spring security */
+    compile 'org.grails.plugins:spring-security-core:3.2.0.M1'
 }
 
 bootRun {

@@ -2,7 +2,7 @@
 grails:
     profile: web
     codegen:
-        defaultPackage: poinavig
+        defaultPackage: m2.mbds.grailsframework.project.poinavig
     spring:
         transactionManagement:
             proxies: false

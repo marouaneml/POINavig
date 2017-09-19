@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/poiNavig.iml" filepath="$PROJECT_DIR$/poiNavig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poiNavig_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/poiNavig_integrationTest.iml" group="poiNavig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poiNavig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/poiNavig_main.iml" group="poiNavig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poiNavig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/poiNavig_test.iml" group="poiNavig" />
+    </modules>
+  </component>
+</project>

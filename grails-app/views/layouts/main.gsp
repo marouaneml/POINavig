@@ -46,7 +46,7 @@
         <div class="sidebar-wrapper">
             <div class="logo">
                 <a href="http://www.creative-tim.com" class="simple-text">
-                    Creative Tim
+                    POI Navig
                 </a>
             </div>
 
@@ -55,37 +55,38 @@
                     <a href="dashboard.html">
                         <i class="ti-panel"></i>
 
-                        <p>Dashboard</p>
+                        <p>Tableau de bord</p>
                     </a>
                 </li>
                 <li>
                     <a href="user.html">
                         <i class="ti-user"></i>
 
-                        <p>User Profile</p>
+                        <p>Profile </p>
                     </a>
                 </li>
                 <li>
                     <a href="table.html">
                         <i class="ti-view-list-alt"></i>
 
-                        <p>Table List</p>
+                        <p>Gestion d'utilisateurs</p>
                     </a>
                 </li>
                 <li>
                     <a href="typography.html">
                         <i class="ti-text"></i>
 
-                        <p>Typography</p>
+                        <p>Gestion des POIs</p>
                     </a>
                 </li>
                 <li>
                     <a href="icons.html">
                         <i class="ti-pencil-alt2"></i>
 
-                        <p>Icons</p>
+                        <p>Gestion des groupes </p>
                     </a>
                 </li>
+                <!--
                 <li>
                     <a href="maps.html">
                         <i class="ti-map"></i>
@@ -93,6 +94,7 @@
                         <p>Maps</p>
                     </a>
                 </li>
+                -->
                 <li>
                     <a href="notifications.html">
                         <i class="ti-bell"></i>
@@ -100,6 +102,7 @@
                         <p>Notifications</p>
                     </a>
                 </li>
+                <!--
                 <li class="active-pro">
                     <a href="upgrade.html">
                         <i class="ti-export"></i>
@@ -107,6 +110,7 @@
                         <p>Upgrade to PRO</p>
                     </a>
                 </li>
+                -->
             </ul>
         </div>
     </div>
@@ -121,7 +125,7 @@
                         <span class="icon-bar bar2"></span>
                         <span class="icon-bar bar3"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Dashboard</a>
+                    <a class="navbar-brand" href="#">Tableau de bord</a>
                 </div>
 
                 <div class="collapse navbar-collapse">
@@ -173,25 +177,30 @@
 
                         <li>
                             <a href="http://www.creative-tim.com">
-                                Creative Tim
+                                <!--Creative Tim-->
+                                Réalisé par MAROUANE &  HAMES
                             </a>
                         </li>
                         <li>
                             <a href="http://blog.creative-tim.com">
-                                Blog
+                                Grails
                             </a>
                         </li>
+                        <!--
                         <li>
                             <a href="http://www.creative-tim.com/license">
                                 Licenses
                             </a>
                         </li>
+                        -->
                     </ul>
                 </nav>
 
                 <div class="copyright pull-right">
-                    &copy; <script>document.write(new Date().getFullYear())</script>, made with <i
+                    &copy; <script>document.write(new Date().getFullYear())</script> <!--, made with -->
+                    <!--<i
                         class="fa fa-heart heart"></i> by <a href="http://www.creative-tim.com">Creative Tim</a>
+                        -->
                 </div>
             </div>
         </footer>

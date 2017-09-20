@@ -7,6 +7,10 @@
 //
 //= require jquery-2.2.0.min
 //= require bootstrap
+//= require custom/bootstrap-checkbox-radio
+//= require custom/bootstrap-notify
+//= require custom/chartist.min
+//= require custom/demo
 //= require_tree .
 //= require_self
 
@@ -17,5 +21,7 @@ if (typeof jQuery !== 'undefined') {
         }).ajaxStop(function() {
             $('#spinner').fadeOut();
         });
+        demo.initChartist();
     })(jQuery);
 }
+

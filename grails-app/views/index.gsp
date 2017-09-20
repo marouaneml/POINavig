@@ -17,14 +17,14 @@
                         <div class="row">
                             <div class="col-xs-5">
                                 <div class="icon-big icon-warning text-center">
-                                    <i class="ti-server"></i>
+                                    <i class="ti-user"></i>
                                 </div>
                             </div>
 
                             <div class="col-xs-7">
                                 <div class="numbers">
-                                    <p>Capacity</p>
-                                    105GB
+                                    <p> Nombre d'utilisateur</p>
+                                    0
                                 </div>
                             </div>
                         </div>
@@ -46,14 +46,14 @@
                         <div class="row">
                             <div class="col-xs-5">
                                 <div class="icon-big icon-success text-center">
-                                    <i class="ti-wallet"></i>
+                                    <i class="ti-location-pin"></i>
                                 </div>
                             </div>
 
                             <div class="col-xs-7">
                                 <div class="numbers">
-                                    <p>Revenue</p>
-                                    $1,345
+                                    <p>POI</p>
+                                    0
                                 </div>
                             </div>
                         </div>
@@ -62,7 +62,7 @@
                             <hr/>
 
                             <div class="stats">
-                                <i class="ti-calendar"></i> Last day
+                                <i class="ti-calendar"></i> Updated now
                             </div>
                         </div>
                     </div>
@@ -75,14 +75,14 @@
                         <div class="row">
                             <div class="col-xs-5">
                                 <div class="icon-big icon-danger text-center">
-                                    <i class="ti-pulse"></i>
+                                    <i class="ti-star"></i>
                                 </div>
                             </div>
 
                             <div class="col-xs-7">
                                 <div class="numbers">
-                                    <p>Errors</p>
-                                    23
+                                    <p>Groupes de POI</p>
+                                    0
                                 </div>
                             </div>
                         </div>
@@ -91,7 +91,7 @@
                             <hr/>
 
                             <div class="stats">
-                                <i class="ti-timer"></i> In the last hour
+                                <i class="ti-timer"></i> Updated now
                             </div>
                         </div>
                     </div>
@@ -104,14 +104,14 @@
                         <div class="row">
                             <div class="col-xs-5">
                                 <div class="icon-big icon-info text-center">
-                                    <i class="ti-twitter-alt"></i>
+                                    <i class="ti-more-alt"></i>
                                 </div>
                             </div>
 
                             <div class="col-xs-7">
                                 <div class="numbers">
-                                    <p>Followers</p>
-                                    +45
+                                    <p>Autres</p>
+                                    +3
                                 </div>
                             </div>
                         </div>
@@ -133,9 +133,9 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="header">
-                        <h4 class="title">Users Behavior</h4>
+                        <h4 class="title">Création d'utilisateurs </h4>
 
-                        <p class="category">24 Hours performance</p>
+                        <p class="category"> Performance sur les 3 derniers mois</p>
                     </div>
 
                     <div class="content">
@@ -143,14 +143,14 @@
 
                         <div class="footer">
                             <div class="chart-legend">
-                                <i class="fa fa-circle text-info"></i> Open
-                                <i class="fa fa-circle text-danger"></i> Click
-                                <i class="fa fa-circle text-warning"></i> Click Second Time
+                                <i class="fa fa-circle text-info"></i> Utilisateur
+                                <i class="fa fa-circle text-danger"></i> Moderateur
+                                <i class="fa fa-circle text-warning"></i> Administrateur
                             </div>
                             <hr>
 
                             <div class="stats">
-                                <i class="ti-reload"></i> Updated 3 minutes ago
+                                <i class="ti-reload"></i> Updated now
                             </div>
                         </div>
                     </div>
@@ -162,9 +162,9 @@
             <div class="col-md-6">
                 <div class="card">
                     <div class="header">
-                        <h4 class="title">Email Statistics</h4>
+                        <h4 class="title">Nombre de POI par groupe</h4>
 
-                        <p class="category">Last Campaign Performance</p>
+                        <p class="category">Performance sur les 3 derniers mois</p>
                     </div>
 
                     <div class="content">
@@ -172,9 +172,9 @@
 
                         <div class="footer">
                             <div class="chart-legend">
-                                <i class="fa fa-circle text-info"></i> Open
-                                <i class="fa fa-circle text-danger"></i> Bounce
-                                <i class="fa fa-circle text-warning"></i> Unsubscribe
+                                <i class="fa fa-circle text-info"></i> Utilisateur
+                                <i class="fa fa-circle text-danger"></i> Moderateur
+                                <i class="fa fa-circle text-warning"></i> Administrateur
                             </div>
                             <hr>
 

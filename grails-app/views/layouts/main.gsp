@@ -52,35 +52,37 @@
 
             <ul class="nav">
                 <li class="active">
-                    <a href="dashboard.html">
+                    <a href="">
                         <i class="ti-panel"></i>
 
                         <p>Tableau de bord</p>
                     </a>
                 </li>
                 <li>
-                    <a href="user.html">
+
+                    <a href="user/current">
                         <i class="ti-user"></i>
 
                         <p>Profile </p>
                     </a>
+
                 </li>
                 <li>
-                    <a href="table.html">
+                    <a href="user">
                         <i class="ti-view-list-alt"></i>
 
                         <p>Gestion d'utilisateurs</p>
                     </a>
                 </li>
                 <li>
-                    <a href="typography.html">
+                    <a href="Poi">
                         <i class="ti-text"></i>
 
                         <p>Gestion des POIs</p>
                     </a>
                 </li>
                 <li>
-                    <a href="icons.html">
+                    <a href="PoiGroupe">
                         <i class="ti-pencil-alt2"></i>
 
                         <p>Gestion des groupes </p>

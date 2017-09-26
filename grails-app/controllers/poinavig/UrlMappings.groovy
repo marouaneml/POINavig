@@ -8,6 +8,10 @@ class UrlMappings {
                 // apply constraints here
             }
         }
+        "/poi/$id?"(resource:"poi")
+                {
+                    action = [GET: "show", PUT: "update", DELETE: "delete", POST: "save"]
+                }
 
         "/"(view:"/index")
         "500"(view:'/error')

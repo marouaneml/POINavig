@@ -58,8 +58,21 @@ dependencies {
     testRuntime "org.seleniumhq.selenium:selenium-htmlunit-driver:2.47.1"
     testRuntime "net.sourceforge.htmlunit:htmlunit:2.18"
 
+    /*
+    pour le driver de postgresQL
+     */
     provided 'org.postgresql:postgresql:9.3-1103-jdbc41'
+    /*
+    integrer le plugin de SpringSecurity pour l'authentification et la gestion des droit d'accès
+    en utilisant la commande "s2-quickstart User Role"
+     */
     compile 'org.grails.plugins:spring-security-core:3.2.0.M1'
+    /*
+    un plugin qui permet de personnaliser (override) les controleurs
+    ainsi que les GSPs en utilisant la commande "s2ui-override auth"
+    doc: https://grails-plugins.github.io/grails-spring-security-ui/v1/guide/customization.html
+    */
+    compile 'org.grails.plugins:spring-security-ui:3.1.0'
 }
 
 bootRun {

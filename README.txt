@@ -1,3 +1,4 @@
+                                       PoiNavig 
      PoiNavig permet la gestion d'un ensemble d'emplacements désignés par leur nomination,
  description ainsi que leur localisation; ceux-ci sont appelés point d'intérêt.
      Pour que la gestion de ceux-ci soit rigoureuse, un ensemble de droits (rôle) est définit:
